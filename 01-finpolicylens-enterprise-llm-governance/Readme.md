@@ -1,3 +1,5 @@
+![FinPolicyLens Banner](screenshots/finpolicylens_banner.png)
+
 # 🏛️ FinPolicyLens Enterprise — Governed LLM Financial Policy Reviewer
 
 FinPolicyLens Enterprise is a production-style Generative AI governance application designed to review financial service contracts, lending agreements, policy disclosures, and borrower-facing documentation using OpenAI LLMs under an enterprise-controlled approval framework.
